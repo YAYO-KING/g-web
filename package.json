@@ -21,7 +21,7 @@
     "jszip": "^3.4.0",
     "lodash": "^4.17.15",
     "mathjs": "^7.0.2",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "nprogress": "^0.2.0",
     "screenfull": "^4.2.0",
     "svg-sprite-loader": "^5.0.0",
